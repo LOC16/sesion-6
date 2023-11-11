@@ -1,0 +1,33 @@
+body {
+    background-color: steelblue;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding-top: 1rem;
+    margin:10px 5px 30px 8px;
+}
+ejemplo de los elemtos del box molden
+    .box {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 20px 20px 20px 20px;
+    border: 2px solid black;
+}
+
+
+.red {
+    background-color: red;
+    margin-bottom: 100px;
+}
+
+.blue {
+    background-color: blue;
+    margin-top: 50px;
+}
+
+.box {
+    border-radius: 30px;
+}
